@@ -1,0 +1,174 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.8">
+  <diagram name="第 1 页" id="VLdYySuV63HT6oiFDr6q">
+    <mxGraphModel dx="2179" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=19;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-1" target="ZEnxgTMkqMP-iI-oMMKd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-44" value="Data Syncup" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;" vertex="1" connectable="0" parent="ZEnxgTMkqMP-iI-oMMKd-3">
+          <mxGeometry x="-0.1349" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=19;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-1" target="ZEnxgTMkqMP-iI-oMMKd-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-48" value="报盘" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZEnxgTMkqMP-iI-oMMKd-39">
+          <mxGeometry x="-0.225" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-1" value="SL-SH(HC）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-2" target="ZEnxgTMkqMP-iI-oMMKd-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-2" value="SL-SH(SC）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="565" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=19;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-4" target="ZEnxgTMkqMP-iI-oMMKd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-45" value="Data Syncup" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;" vertex="1" connectable="0" parent="ZEnxgTMkqMP-iI-oMMKd-34">
+          <mxGeometry x="-0.0977" y="4" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=19;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-4" target="ZEnxgTMkqMP-iI-oMMKd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-4" value="SL-SZ(HC）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="471" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-6" target="ZEnxgTMkqMP-iI-oMMKd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-6" value="SL-SZ(SC）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="565" y="471" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontSize=19;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-8" target="ZEnxgTMkqMP-iI-oMMKd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=19;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-8" target="ZEnxgTMkqMP-iI-oMMKd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-8" value="AdminGUI" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="323.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-9" value="TraderGUI" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="600" y="324" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=19;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-11" target="ZEnxgTMkqMP-iI-oMMKd-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;fontSize=19;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-11" target="ZEnxgTMkqMP-iI-oMMKd-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=19;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-11" target="ZEnxgTMkqMP-iI-oMMKd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=19;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-11" target="ZEnxgTMkqMP-iI-oMMKd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-11" value="MonitorGUI" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="180" y="324" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=19;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-13" target="ZEnxgTMkqMP-iI-oMMKd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.925;exitY=0.851;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontSize=19;endArrow=none;startFill=1;startArrow=classic;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-13" target="ZEnxgTMkqMP-iI-oMMKd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontSize=19;endArrow=none;startFill=1;startArrow=classic;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-13" target="ZEnxgTMkqMP-iI-oMMKd-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="400" as="sourcePoint" />
+            <mxPoint x="625" y="547" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="566" />
+              <mxPoint x="318" y="566" />
+              <mxPoint x="318" y="567" />
+              <mxPoint x="625" y="567" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-49" value="报盘" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZEnxgTMkqMP-iI-oMMKd-17">
+          <mxGeometry x="0.0909" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=19;endArrow=none;startFill=1;startArrow=classic;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-13" target="ZEnxgTMkqMP-iI-oMMKd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;fontSize=19;endArrow=none;startFill=1;startArrow=classic;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-13" target="ZEnxgTMkqMP-iI-oMMKd-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="140" />
+              <mxPoint x="625" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-13" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="310" width="80" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-14" value="DB(backup)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="313.5" width="80" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.65;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=19;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-9" target="ZEnxgTMkqMP-iI-oMMKd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.608;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=19;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-9" target="ZEnxgTMkqMP-iI-oMMKd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=19;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-11" target="ZEnxgTMkqMP-iI-oMMKd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;fontSize=19;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=19;curved=1;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-11" target="ZEnxgTMkqMP-iI-oMMKd-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="440" />
+              <mxPoint x="-90" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=19;curved=1;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-8" target="ZEnxgTMkqMP-iI-oMMKd-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="260" />
+              <mxPoint x="40" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=19;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-36" target="ZEnxgTMkqMP-iI-oMMKd-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-36" value="TDGW(1...n)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="230" y="611" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=19;" edge="1" parent="1" source="ZEnxgTMkqMP-iI-oMMKd-38" target="ZEnxgTMkqMP-iI-oMMKd-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-38" value="TGW(1...n)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="230" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-40" value="SSE" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="430" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEnxgTMkqMP-iI-oMMKd-42" value="SZSE" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="430" y="611" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
